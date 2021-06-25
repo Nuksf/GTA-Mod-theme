@@ -1,7 +1,7 @@
-# Pyrite Theme
+# Nuk=sf Theme
 Pyrite is a Discord Theme inspired by both Basic Background and ClearVision and is built off the core of the latter. (The package-lock.json file is the same and core is similar but not exact).
 
-Pyrite is built for [Canary](https://canary.discord.com/) so all class syntax is for that. Due to the differences between Canary, PTB and Stable as well as Discord Experiments you might not have an area themed. Speak up for it on the [Support Server](https://discord.gg/W976FZS) and someone will fix it up for you.
+Nuk=sf Theme is built for [Canary](https://canary.discord.com/) so all class syntax is for that. Due to the differences between Canary, PTB and Stable as well as Discord Experiments you might not have an area themed. Speak up for it on the [Support Server](https://discord.gg/PWYdtfa7hd) and someone will fix it up for you.
 
 
 Default Images & Licensing:
